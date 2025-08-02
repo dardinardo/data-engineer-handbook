@@ -1,4 +1,4 @@
 chispa
 pytest
-pyspark
-pyspark[sql]
+pyspark==3.5.6
+pyspark[sql]==3.5.6
