@@ -1,0 +1,3 @@
+Homeworks are in:
+- testing: src/jobs & src/tests as actor_scd_job.py, host_activity_reducted_job.py, test_actor_scd_job.py, test_host_activity_reducted_job.py
+- spark: notebooks as homework3.ipynb
